@@ -1,0 +1,36 @@
+faa,name,lat,lon,alt,tz,dst,tzone
+EWR,Newark Liberty Intl,40.6925,−74.1687,18,−5,A,America/New_York
+JFK,John F Kennedy Intl,40.63972,−73.77893,13,−5,A,America/New_York
+LGA,La Guardia,40.77725,−73.87261,22,−5,A,America/New_York
+ATL,Hartsfield Jackson Atlanta Intl,33.64267,−84.42694,1026,−5,A,America/New_York
+BOS,General Edward Lawrence Logan Intl,42.36435,−71.00518,19,−5,A,America/New_York
+CLT,Charlotte Douglas Intl,35.2140,−80.9431,748,−5,A,America/New_York
+DEN,Denver Intl,39.8561,−104.6567,5431,−7,A,America/Denver
+DFW,Dallas Fort Worth Intl,32.8968,−97.0380,607,−6,A,America/Chicago
+FLL,Fort Lauderdale Hollywood Intl,26.0726,−80.1527,9,−5,A,America/New_York
+IAD,Washington Dulles Intl,38.9444,−77.4558,313,−5,A,America/New_York
+LAX,Los Angeles Intl,33.9425,−118.4081,126,−8,A,America/Los_Angeles
+MCO,Orlando Intl,28.4294,−81.3089,96,−5,A,America/New_York
+MIA,Miami Intl,25.7959,−80.2870,8,−5,A,America/New_York
+ORD,Chicago Ohare Intl,41.9786,−87.9048,668,−6,A,America/Chicago
+SEA,Seattle Tacoma Intl,47.4490,−122.3094,433,−8,A,America/Los_Angeles
+SFO,San Francisco Intl,37.6190,−122.3750,13,−8,A,America/Los_Angeles
+BQN,Rafael Hernandez,18.4949,−67.1294,237,−4,,America/Puerto_Rico
+BWI,Baltimore Washington Intl,39.1754,−76.6683,146,−5,A,America/New_York
+CLE,Cleveland Hopkins Intl,41.4117,−81.8498,799,−5,A,America/New_York
+CVG,Cincinnati Northern Kentucky Intl,39.0488,−84.6678,896,−5,A,America/New_York
+DTW,Detroit Metro Wayne County,42.2124,−83.3534,645,−5,A,America/New_York
+MDW,Chicago Midway Intl,41.7868,−87.7522,620,−6,A,America/Chicago
+MSP,Minneapolis St Paul Intl,44.8820,−93.2219,841,−6,A,America/Chicago
+PHL,Philadelphia Intl,39.8719,−75.2411,36,−5,A,America/New_York
+PHX,Phoenix Sky Harbor Intl,33.4373,−112.0078,1135,−7,N,America/Phoenix
+RDU,Raleigh Durham Intl,35.8776,−78.7875,435,−5,A,America/New_York
+SJU,Luis Munoz Marin Intl,18.4394,−66.0018,9,−4,,America/Puerto_Rico
+STL,Lambert St Louis Intl,38.7487,−90.3700,618,−6,A,America/Chicago
+TPA,Tampa Intl,27.9755,−82.5332,26,−5,A,America/New_York
+MSY,Louis Armstrong New Orleans Intl,29.9934,−90.2580,4,−6,A,America/Chicago
+HNL,Honolulu Intl,21.3187,−157.9222,13,−10,N,Pacific/Honolulu
+MKE,General Mitchell Intl,42.9472,−87.8966,723,−6,A,America/Chicago
+OAK,Metropolitan Oakland Intl,37.7213,−122.2208,9,−8,A,America/Los_Angeles
+PBI,Palm Beach Intl,26.6832,−80.0956,19,−5,A,America/New_York
+SNA,John Wayne Airport Orange Co,33.6757,−117.8682,54,−8,A,America/Los_Angeles
