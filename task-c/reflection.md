@@ -21,7 +21,12 @@ Consider: What patterns did you observe in the SMAP data? How might those patter
 
 **Your response (75–100 words):**
 
+<<<<<<< HEAD
 Messing around with the SMAP data made it super clear how chaotic real-world sensor streams actually are. Back in Task A, I saw that anomalies weren't just quick, isolated glitches on a single channel—they were usually multi-channel shifts happening all at once. That kind of synchronized noise means a basic single-sensor threshold isn't going to cut it. It makes a strong case for an autoencoder, since it learns what "normal" looks like across every channel at the same time. The real headache will be setting the reconstruction error threshold just right, especially with how noisy the baseline data can be.
+=======
+> _Replace this text with your answer._
+
+>>>>>>> upstream/main
 ---
 
 ## Question 2 — Self-Assessment of Readiness
@@ -32,7 +37,12 @@ Be honest. There are no wrong answers — this helps us plan the onboarding sche
 
 **Your response (75–100 words):**
 
+<<<<<<< HEAD
 I feel pretty good handling basic data wrangling in pandas, but deep learning frameworks like PyTorch are definitely a gap for me right now—especially when it comes to building autoencoder models from scratch. I also want to get more comfortable with linear algebra and time-series concepts. To bridge that, my plan is to work through a few PyTorch autoencoder guides and practice time-series preprocessing before the research work kicks into high gear.
+=======
+> _Replace this text with your answer._
+
+>>>>>>> upstream/main
 ---
 
 *Submission: commit this file to your fork and include it in the GitHub repo URL you submit on Canvas.*
